@@ -440,7 +440,7 @@ function renderTable() {
       <td>${getStatusBadge(d.status, d.applied, d.relance_sent)}</td>
       <td style="color:var(--text-dim);font-size:12px;">${d.date || '-'}</td>
       <td class="actions-col">
-        ${d.url ? `<a href="${d.url}" target="_blank" class="btn btn-sm btn-outline" title="Voir l'offre">🔗</a>` : ''}
+        ${d.url ? `<a href="${d.url}" target="_blank" class="btn btn-sm btn-outline" title="Voir l'offre">🔗</a>` : '<span class="btn btn-sm btn-outline" style="opacity:0.3;cursor:default;">🔗</span>'}
         ${(!d.applied && d.status !== 'postulee') ? `<button class="btn btn-sm btn-success" onclick="confirmAction('postuler','${d.id}')">✅ Postuler</button>` : ''}
         ${(d.applied || d.status === 'postulee') && !d.relance_sent ? `<button class="btn btn-sm btn-warning" onclick="confirmAction('relancer','${d.id}')">📬 Relancer</button>` : ''}
         ${d.relance_sent ? `<span style="color:var(--green);font-size:11px;">✓ Relancé${relanceLabel}</span>` : ''}
