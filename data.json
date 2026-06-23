@@ -1,0 +1,134 @@
+{
+  "offres": [
+    {
+      "id": "2026-06-19-qiub-consultant",
+      "date_decouverte": "2026-06-19",
+      "titre": "Consultant Cybersecurite",
+      "entreprise": "qiub",
+      "score": 60,
+      "statut": "cv_genere",
+      "date_postulation": null,
+      "notes": ""
+    },
+    {
+      "id": "2026-06-19-stormshield-ingenieur",
+      "date_decouverte": "2026-06-19",
+      "titre": "Ingenieur Reseau Cybersecurite",
+      "entreprise": "Stormshield",
+      "score": 65,
+      "statut": "cv_genere",
+      "date_postulation": null,
+      "notes": ""
+    },
+    {
+      "id": "2026-06-19-sales-specialist",
+      "date_decouverte": "2026-06-19",
+      "titre": "Sales Specialist Cybersecurite",
+      "entreprise": "Red Hot Talents",
+      "score": 55,
+      "statut": "cv_genere",
+      "date_postulation": null,
+      "notes": "Salaire 60-70Ke"
+    },
+    {
+      "id": "2026-06-20-spie-ics-ingenieur",
+      "date_decouverte": "2026-06-20",
+      "titre": "Ingenieur Reseau-Securite",
+      "entreprise": "SPIE ICS",
+      "score": 84,
+      "statut": "postulee",
+      "date_postulation": "2026-06-22",
+      "notes": "Postule automatiquement via email"
+    },
+    {
+      "id": "2026-06-20-deloitte-analyste",
+      "date_decouverte": "2026-06-20",
+      "titre": "Analyste Cybersecurite Junior",
+      "entreprise": "Deloitte",
+      "score": 58,
+      "statut": "cv_genere",
+      "date_postulation": null,
+      "notes": ""
+    },
+    {
+      "id": "2026-06-20-sopra-steria-responsable",
+      "date_decouverte": "2026-06-20",
+      "titre": "Responsable Securite Operationnelle",
+      "entreprise": "Sopra Steria",
+      "score": 62,
+      "statut": "cv_genere",
+      "date_postulation": null,
+      "notes": ""
+    },
+    {
+      "id": "2026-06-22-cyberdian",
+      "date_decouverte": "2026-06-22",
+      "titre": "Consultant Securite Reseau H/F",
+      "entreprise": "Cyberdian",
+      "score": 72,
+      "statut": "decouverte",
+      "date_postulation": null,
+      "notes": "Cyberdian, specialiste cybersecurite"
+    },
+    {
+      "id": "2026-06-22-admin-reseaux-clamart",
+      "date_decouverte": "2026-06-22",
+      "titre": "Administrateur Systemes & Reseaux H/F",
+      "entreprise": "Emplois Informatique (Clamart 92)",
+      "score": 70,
+      "statut": "decouverte",
+      "date_postulation": null,
+      "notes": "Fortinet, Stormshield, bon match technique"
+    },
+    {
+      "id": "2026-06-22-headmind-partners",
+      "date_decouverte": "2026-06-22",
+      "titre": "Consultant Cybersecurite (F/H)",
+      "entreprise": "HeadMind Partners",
+      "score": 69,
+      "statut": "decouverte",
+      "date_postulation": null,
+      "notes": "Partenaire ANSSI"
+    },
+    {
+      "id": "2026-06-22-admin-reseaux-ris-orangis",
+      "date_decouverte": "2026-06-22",
+      "titre": "Administrateur Systemes et Reseaux (h/f)",
+      "entreprise": "Emplois Informatique (Ris-Orangis 91)",
+      "score": 69,
+      "statut": "decouverte",
+      "date_postulation": null,
+      "notes": "Proche Evry !"
+    },
+    {
+      "id": "2026-06-22-esn-consultant-gestion-crises",
+      "date_decouverte": "2026-06-22",
+      "titre": "Cons. Confirme Cybersecurite - Gestion de Crises H/F",
+      "entreprise": "ESN (Hellowork)",
+      "score": 65,
+      "statut": "decouverte",
+      "date_postulation": null,
+      "notes": ""
+    },
+    {
+      "id": "2026-06-19-ingenieur-cybersecurite-evry",
+      "date_decouverte": "2026-06-19",
+      "titre": "Ingenieur Cybersecurite",
+      "entreprise": "Inconnue",
+      "score": 50,
+      "statut": "cv_genere",
+      "date_postulation": null,
+      "notes": "Localisation Evry"
+    },
+    {
+      "id": "2026-06-20-consort-coordinateur",
+      "date_decouverte": "2026-06-20",
+      "titre": "Coordinateur Reseaux et Securite",
+      "entreprise": "Consort",
+      "score": 48,
+      "statut": "cv_genere",
+      "date_postulation": null,
+      "notes": ""
+    }
+  ]
+}
