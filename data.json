@@ -256,14 +256,14 @@
     "description": "Ingénieur Cybersécurité / Analyste SOC. CDI. SOC interne. Windows, Linux, Python, PowerShell. Télétravail fréquent. Salaire 42-45K€. Saint-Mandé (94).",
     "date": "2026-06-24",
     "score": 72,
-    "status": "decouverte",
-    "applied": false,
-    "applied_date": null,
+    "status": "postulee",
+    "applied": true,
+    "applied_date": "2026-06-24",
     "relance_sent": false,
     "relance_date": null,
     "relance_count": 0,
-    "email": null,
-    "notes": ""
+    "email": "recrutement@aisi.fr",
+    "notes": "Candidature envoyee le 24/06/2026 a recrutement@aisi.fr - Ingenieur Cybersecurity / Analyste SOC"
   },
   {
     "id": "2026-06-24-equans-cyber-defense",
