@@ -136,7 +136,7 @@
     "id": "2026-06-20-sopra-steria-responsable",
     "title": "Responsable Sécurité Opérationnelle",
     "company": "Sopra Steria",
-    "url": "https://www.soprasteria.fr/carriere/offres-emploi",
+    "url": "https://www.welcometothejungle.com/fr/companies/sopra-steria",
     "source": "Apec",
     "location": "Paris (75)",
     "description": "Responsable sécurité opérationnelle. Management et pilotage RSSI.",
@@ -149,7 +149,7 @@
     "relance_date": null,
     "relance_count": 0,
     "email": null,
-    "notes": "Chercher 'sécurité opérationnelle' sur soprasteria.fr/carriere"
+    "notes": "404 sur soprasteria.fr. Chercher sur WTTJ page Sopra Steria"
   },
   {
     "id": "2026-06-19-qiub-consultant",
@@ -174,7 +174,7 @@
     "id": "2026-06-20-deloitte-analyste",
     "title": "Analyste Cybersécurité Junior",
     "company": "Deloitte",
-    "url": "https://fr.indeed.com/viewjob?jk=dc882c66d43ff86e",
+    "url": "https://www.welcometothejungle.com/fr/companies/deloitte",
     "source": "LinkedIn",
     "location": "Courbevoie (92)",
     "description": "Analyste cybersécurité pour missions de conseil et audit. Débutant accepté.",
@@ -187,7 +187,7 @@
     "relance_date": null,
     "relance_count": 0,
     "email": null,
-    "notes": "Offre Indeed trouvée: Analyste Cybersécurité Junior"
+    "notes": "Lien Indeed timeout (anti-bot). Chercher sur WTTJ Deloitte"
   },
   {
     "id": "2026-06-19-redhot-sales",
@@ -245,5 +245,43 @@
     "relance_count": 0,
     "email": null,
     "notes": "Chercher 'coordinateur réseaux' sur LesJeudis"
+  },
+  {
+    "id": "2026-06-24-aisi-ingenieur-soc",
+    "title": "Ingénieur Cybersécurité / Analyste SOC",
+    "company": "AISI",
+    "url": "https://www.welcometothejungle.com/fr/companies/aisi/jobs/bb36e3d1-7b37-4594-8d36-d9b4b2de1815",
+    "source": "Welcome to the Jungle",
+    "location": "Saint-Mandé (94)",
+    "description": "Ingénieur Cybersécurité / Analyste SOC. CDI. SOC interne. Windows, Linux, Python, PowerShell. Télétravail fréquent. Salaire 42-45K€. Saint-Mandé (94).",
+    "date": "2026-06-24",
+    "score": 72,
+    "status": "decouverte",
+    "applied": false,
+    "applied_date": null,
+    "relance_sent": false,
+    "relance_date": null,
+    "relance_count": 0,
+    "email": null,
+    "notes": ""
+  },
+  {
+    "id": "2026-06-24-equans-cyber-defense",
+    "title": "Customer Cyber Defense Engineer",
+    "company": "EQUANS France",
+    "url": "https://lesjeudis.com/job/customer-cyber-defense-engineer-mfx-437542",
+    "source": "LesJeudis",
+    "location": "Courbevoie (92)",
+    "description": "Customer Cyber Defense Engineer. CDI. CrowdStrike, SOAR, SIEM, Azure, AWS. Courbevoie (92). Equans.",
+    "date": "2026-06-24",
+    "score": 70,
+    "status": "decouverte",
+    "applied": false,
+    "applied_date": null,
+    "relance_sent": false,
+    "relance_date": null,
+    "relance_count": 0,
+    "email": null,
+    "notes": ""
   }
 ]
